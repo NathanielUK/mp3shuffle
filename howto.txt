@@ -1,0 +1,3 @@
+pyinstaller --onefile randsong.py
+
+will make a new executionable file
